@@ -1,5 +1,16 @@
 # @ctx-core/buffer
 
+## 1.1.0
+
+### Minor Changes
+
+- dist,types directory: addressing typescript build issues
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/dom@8.4.0
+
 ## 1.0.2
 
 ### Patch Changes
