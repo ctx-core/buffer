@@ -1,5 +1,13 @@
 # @ctx-core/buffer
 
+## 1.1.1
+
+### Patch Changes
+
+- .gitignore: - \*.js
+- Updated dependencies [undefined]
+  - @ctx-core/dom@8.4.1
+
 ## 1.1.0
 
 ### Minor Changes
