@@ -1,5 +1,13 @@
 # @ctx-core/buffer
 
+## 1.2.1
+
+### Patch Changes
+
+- update dependencies
+- Updated dependencies [undefined]
+  - @ctx-core/dom@8.5.1
+
 ## 1.2.0
 
 ### Minor Changes
