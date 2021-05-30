@@ -1,5 +1,18 @@
 # @ctx-core/buffer
 
+## 2.0.0
+
+### Major Changes
+
+- \$ suffix for stores
+- \_ suffix for factory functions
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+- Updated dependencies [undefined]
+  - @ctx-core/dom@9.0.0
+
 ## 1.2.1
 
 ### Patch Changes
