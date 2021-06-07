@@ -1,5 +1,13 @@
 # @ctx-core/buffer
 
+## 2.0.2
+
+### Patch Changes
+
+- version bump: run build
+- Updated dependencies [undefined]
+  - @ctx-core/dom@9.0.10
+
 ## 2.0.1
 
 ### Patch Changes
