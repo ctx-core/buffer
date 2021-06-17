@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/buffer",
-	"version": "3.0.0",
+	"version": "3.0.1",
 	"description": "ctx-core buffer utility functions",
 	"keywords": [
 		"ctx-core",
@@ -27,10 +27,10 @@
 		"prepublishOnly": "npm run compile"
 	},
 	"dependencies": {
-		"@ctx-core/dom": "workspace:^10.0.1"
+		"@ctx-core/dom": "workspace:^10.0.2"
 	},
 	"devDependencies": {
-		"typescript": "^4.3.2"
+		"typescript": "^4.3.3"
 	},
 	"publishConfig": {
 		"access": "public",
