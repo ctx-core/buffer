@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/buffer",
-	"version": "3.0.1",
+	"version": "3.0.2",
 	"description": "ctx-core buffer utility functions",
 	"keywords": [
 		"ctx-core",
