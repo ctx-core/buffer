@@ -1,5 +1,13 @@
 # @ctx-core/buffer
 
+## 3.0.5
+
+### Patch Changes
+
+- npm run prepare instead of npm run prepublishOnly
+- Updated dependencies [undefined]
+  - @ctx-core/dom@10.0.5
+
 ## 3.0.4
 
 ### Patch Changes
