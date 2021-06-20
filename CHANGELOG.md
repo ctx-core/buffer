@@ -1,5 +1,13 @@
 # @ctx-core/buffer
 
+## 3.0.4
+
+### Patch Changes
+
+- fix: npm run clean
+- Updated dependencies [undefined]
+  - @ctx-core/dom@10.0.4
+
 ## 3.0.3
 
 ### Patch Changes
