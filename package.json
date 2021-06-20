@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/buffer",
-	"version": "3.0.5",
+	"version": "3.0.6",
 	"description": "ctx-core buffer utility functions",
 	"keywords": [
 		"ctx-core",
@@ -24,10 +24,10 @@
 		"clean": "rm -f tsconfig.tsbuildinfo && rm -f src/**/*.js && rm -f src/**/*.d.ts && rm -f src/**/*.map",
 		"compile": "./node_modules/.bin/tsc -b .",
 		"exec": "$@",
-		"prepare": "npm run build"
+		"prepare": "npm run clean && npm run compile"
 	},
 	"dependencies": {
-		"@ctx-core/dom": "workspace:^10.0.5"
+		"@ctx-core/dom": "workspace:^10.0.6"
 	},
 	"devDependencies": {
 		"typescript": "^4.3.4"
