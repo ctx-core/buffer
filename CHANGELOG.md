@@ -1,5 +1,13 @@
 # @ctx-core/buffer
 
+## 3.0.9
+
+### Patch Changes
+
+- tsconfig.json: "lib": ["dom", "ESNext"]
+- Updated dependencies [undefined]
+  - @ctx-core/dom@10.0.10
+
 ## 3.0.8
 
 ### Patch Changes
