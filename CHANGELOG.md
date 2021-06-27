@@ -1,5 +1,13 @@
 # @ctx-core/buffer
 
+## 3.0.12
+
+### Patch Changes
+
+- dist directory
+- Updated dependencies [undefined]
+  - @ctx-core/dom@10.0.15
+
 ## 3.0.11
 
 ### Patch Changes
