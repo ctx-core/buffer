@@ -1,5 +1,16 @@
 # @ctx-core/buffer
 
+## 4.0.0
+
+### Major Changes
+
+- "type": "module": module npm type
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/dom@11.0.0
+
 ## 3.0.16
 
 ### Patch Changes
