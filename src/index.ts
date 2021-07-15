@@ -1,2 +1,2 @@
-export * from './base64_buffer_'
-export * from './buffer_base64_'
+export * from './base64_buffer_.js'
+export * from './buffer_base64_.js'
