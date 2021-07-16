@@ -1,5 +1,29 @@
 # @ctx-core/buffer
 
+## 4.0.6
+
+### Patch Changes
+
+- back to esm module with cjs using esm npm package to load library
+- Updated dependencies [undefined]
+  - @ctx-core/dom@11.0.7
+
+## 4.0.5
+
+### Patch Changes
+
+- back to esm module with cjs using esm npm package to load library
+- Updated dependencies [undefined]
+  - @ctx-core/dom@11.0.6
+
+## 4.0.4
+
+### Patch Changes
+
+- back to esm module with cjs using esm npm package to load library
+- Updated dependencies [undefined]
+  - @ctx-core/dom@11.0.5
+
 ## 4.0.3
 
 ### Patch Changes
