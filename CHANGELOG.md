@@ -1,5 +1,11 @@
 # @ctx-core/buffer
 
+## 4.0.16
+
+### Patch Changes
+
+- update dependencies
+
 ## 4.0.15
 
 ### Patch Changes

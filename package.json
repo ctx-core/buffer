@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/buffer",
-	"version": "4.0.15",
+	"version": "4.0.16",
 	"description": "ctx-core buffer utility functions",
 	"keywords": [
 		"ctx-core",
@@ -36,7 +36,7 @@
 		"prepublishOnly": "npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/dom": "workspace:^11.0.16",
+		"@ctx-core/dom": "workspace:^11.0.17",
 		"esm": "^3.2.25"
 	},
 	"devDependencies": {
