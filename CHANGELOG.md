@@ -1,5 +1,13 @@
 # @ctx-core/buffer
 
+## 4.0.19
+
+### Patch Changes
+
+- typescript: ^4.4.2 -> ^4.4.3
+- Updated dependencies [undefined]
+  - @ctx-core/dom@11.0.24
+
 ## 4.0.18
 
 ### Patch Changes
