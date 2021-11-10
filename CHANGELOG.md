@@ -1,5 +1,13 @@
 # @ctx-core/buffer
 
+## 4.0.23
+
+### Patch Changes
+
+- compile using swc
+- Updated dependencies
+  - @ctx-core/dom@11.0.30
+
 ## 4.0.22
 
 ### Patch Changes
