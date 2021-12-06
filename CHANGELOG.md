@@ -1,5 +1,13 @@
 # @ctx-core/buffer
 
+## 4.0.31
+
+### Patch Changes
+
+- package.json: - "main": explicitly not support cjs
+- Updated dependencies
+  - @ctx-core/dom@11.0.39
+
 ## 4.0.30
 
 ### Patch Changes
