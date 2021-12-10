@@ -1,5 +1,13 @@
 # @ctx-core/buffer
 
+## 4.0.32
+
+### Patch Changes
+
+- package.json: - module
+- Updated dependencies
+  - @ctx-core/dom@11.0.40
+
 ## 4.0.31
 
 ### Patch Changes
