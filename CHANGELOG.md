@@ -1,5 +1,13 @@
 # @ctx-core/buffer
 
+## 4.0.33
+
+### Patch Changes
+
+- package.json: svelte: ./dist/index.js
+- Updated dependencies
+  - @ctx-core/dom@11.0.41
+
 ## 4.0.32
 
 ### Patch Changes
