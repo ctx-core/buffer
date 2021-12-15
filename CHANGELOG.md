@@ -1,5 +1,13 @@
 # @ctx-core/buffer
 
+## 4.0.36
+
+### Patch Changes
+
+- \*.d.ts export
+- Updated dependencies
+  - @ctx-core/dom@11.0.44
+
 ## 4.0.35
 
 ### Patch Changes
