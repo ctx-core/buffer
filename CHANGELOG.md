@@ -1,5 +1,13 @@
 # @ctx-core/buffer
 
+## 4.0.42
+
+### Patch Changes
+
+- version bump
+- Updated dependencies
+  - @ctx-core/dom@11.1.3
+
 ## 4.0.41
 
 ### Patch Changes
