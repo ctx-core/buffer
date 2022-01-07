@@ -1,5 +1,13 @@
 # @ctx-core/buffer
 
+## 4.0.43
+
+### Patch Changes
+
+- @swc/core: ^1.2.125 -> ^1.2.127
+- Updated dependencies
+  - @ctx-core/dom@11.1.4
+
 ## 4.0.42
 
 ### Patch Changes
