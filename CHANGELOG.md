@@ -1,5 +1,13 @@
 # @ctx-core/buffer
 
+## 4.0.44
+
+### Patch Changes
+
+- sideEffects = false
+- Updated dependencies
+  - @ctx-core/dom@11.1.5
+
 ## 4.0.43
 
 ### Patch Changes
