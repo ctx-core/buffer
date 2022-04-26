@@ -1,5 +1,13 @@
 # @ctx-core/buffer
 
+## 4.0.49
+
+### Patch Changes
+
+- @ctx-core/array: 26.2.0
+- Updated dependencies
+  - @ctx-core/dom@11.1.13
+
 ## 4.0.48
 
 ### Patch Changes
