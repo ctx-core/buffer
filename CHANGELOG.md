@@ -1,5 +1,13 @@
 # @ctx-core/buffer
 
+## 4.0.50
+
+### Patch Changes
+
+- @ctx-core/function: 20.7.1
+- Updated dependencies
+  - @ctx-core/dom@11.1.14
+
 ## 4.0.49
 
 ### Patch Changes
