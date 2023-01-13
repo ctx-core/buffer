@@ -1,5 +1,11 @@
 # @ctx-core/buffer
 
+## 4.0.74
+
+### Patch Changes
+
+- rimraf: ^3.0.2 -> ^4.0.1
+
 ## 4.0.73
 
 ### Patch Changes
