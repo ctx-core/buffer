@@ -1,5 +1,14 @@
 # @ctx-core/buffer
 
+## 4.0.75
+
+### Patch Changes
+
+- rimraf: ^4.0.1 -> ^4.0.4
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/dom@11.2.20
+
 ## 4.0.74
 
 ### Patch Changes
