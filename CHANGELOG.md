@@ -1,5 +1,13 @@
 # @ctx-core/buffer
 
+## 4.0.80
+
+### Patch Changes
+
+- tsconfig.json: - importsNotUsedAsValues
+- Updated dependencies
+  - @ctx-core/dom@11.2.25
+
 ## 4.0.79
 
 ### Patch Changes
