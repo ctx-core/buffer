@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/buffer",
-	"version": "4.0.83",
+	"version": "4.0.84",
 	"description": "ctx-core buffer utility functions",
 	"keywords": [
 		"ctx-core",
@@ -33,7 +33,7 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/dom": "^11.2.27"
+		"@ctx-core/dom": "^11.2.28"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.60",
