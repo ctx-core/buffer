@@ -1,5 +1,11 @@
 # @ctx-core/buffer
 
+## 4.0.87
+
+### Patch Changes
+
+- @ctx-core/dom: ^11.2.30 -> ^11.2.31
+
 ## 4.0.86
 
 ### Patch Changes
