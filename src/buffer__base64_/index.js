@@ -1,5 +1,10 @@
 import { has_dom } from '@ctx-core/dom'
-export function buffer_base64_(buffer:Buffer) {
+/**
+ * @param buffer{ArrayBuffer|Buffer}
+ * @return {string}
+ * @private
+ */
+export function buffer__base64_(buffer) {
 	if (has_dom) {
 		let binary = ''
 		const bytes = new Uint8Array(buffer)
@@ -13,5 +18,6 @@ export function buffer_base64_(buffer:Buffer) {
 	}
 }
 export {
-	buffer_base64_ as _buffer_base64,
+	buffer__base64_ as buffer_base64_,
+	buffer__base64_ as _buffer_base64, 
 }

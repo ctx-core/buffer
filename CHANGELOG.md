@@ -1,5 +1,13 @@
 # @ctx-core/buffer
 
+## 4.1.0
+
+### Minor Changes
+
+- extract _.js & _.d.ts into directories
+- buffer\__base64_: aliased by buffer*base64*
+- base64\__buffer_: aliased by base64*buffer*
+
 ## 4.0.92
 
 ### Patch Changes
