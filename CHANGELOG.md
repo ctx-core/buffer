@@ -1,5 +1,11 @@
 # @ctx-core/buffer
 
+## 4.1.2
+
+### Patch Changes
+
+- @ctx-core/atob: workspace:^10.0.96 -> 10.1.0
+
 ## 4.1.1
 
 ### Patch Changes
