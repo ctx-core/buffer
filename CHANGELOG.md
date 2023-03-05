@@ -1,5 +1,13 @@
 # @ctx-core/buffer
 
+## 4.1.36
+
+### Patch Changes
+
+- @ctx-core/dom: ^11.4.29 -> ^11.4.30
+- Updated dependencies
+  - @ctx-core/atob@10.1.34
+
 ## 4.1.35
 
 ### Patch Changes
