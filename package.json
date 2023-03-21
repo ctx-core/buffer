@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/buffer",
-	"version": "4.1.57",
+	"version": "4.1.58",
 	"description": "ctx-core buffer utility functions",
 	"keywords": [
 		"ctx-core",
@@ -33,8 +33,8 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/atob": "10.1.55",
-		"@ctx-core/dom": "^14.0.1"
+		"@ctx-core/atob": "10.1.56",
+		"@ctx-core/dom": "^14.0.2"
 	},
 	"devDependencies": {
 		"c8": "^7.13.0",
