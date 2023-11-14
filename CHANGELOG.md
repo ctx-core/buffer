@@ -1,5 +1,13 @@
 # @ctx-core/buffer
 
+## 4.2.3
+
+### Patch Changes
+
+- package.json: files: + \*.js
+- Updated dependencies
+  - ctx-core@2.2.2
+
 ## 4.2.2
 
 ### Patch Changes
