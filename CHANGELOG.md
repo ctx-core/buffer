@@ -1,5 +1,15 @@
 # @ctx-core/buffer
 
+## 4.2.4
+
+### Patch Changes
+
+- package.json: files:
+
+      *.d.ts
+      *.js
+      *.json
+
 ## 4.2.3
 
 ### Patch Changes
