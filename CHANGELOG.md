@@ -1,5 +1,11 @@
 # @ctx-core/buffer
 
+## 4.2.49
+
+### Patch Changes
+
+- ctx-core: ^4.15.0 -> ^4.16.0
+
 ## 4.2.48
 
 ### Patch Changes
